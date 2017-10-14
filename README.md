@@ -6,6 +6,6 @@
 * After a thorough inspection and analysis of data few models were tried out on the training data and then the most effective one was chosen based on their performance. It was then used to classify the mushrooms in the test data.
 
 ## Prerequisites and installation ##
-* R. 
+* R version 3.4.0 (2017-04-21) -- "You Stupid Darkness".
 * RStudio.
 * R libraries used - 'mice', 'VIM', 'OneR', 'ggplot2', 'rpart', 'rpart.plot', 'RWeka'. These can be easily installed using RStudio.
