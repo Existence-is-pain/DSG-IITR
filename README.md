@@ -8,4 +8,4 @@
 ## Prerequisites and installation ##
 * R version 3.4.0 (2017-04-21) -- "You Stupid Darkness".
 * RStudio.
-* R libraries used - 'mice', 'VIM', 'OneR', 'ggplot2', 'rpart', 'rpart.plot', 'RWeka'. These can be easily installed using RStudio.
+* R libraries used - 'mice', 'VIM', 'OneR', 'ggplot2', 'rpart', 'rpart.plot', 'RWeka'('RWeka' is a Java based package, so Java needs to be installed on the machine). These can be easily installed using RStudio.
